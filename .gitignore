@@ -6,3 +6,6 @@ env
 
 # gitignore file
 /.gitignore
+
+# .pyc
+*.pyc
