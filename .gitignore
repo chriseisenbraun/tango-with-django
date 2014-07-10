@@ -1,2 +1,6 @@
 # ignore virtualenv env folder
 env
+
+# git folder
+.git
+
