@@ -5,4 +5,4 @@ env
 .git
 
 # gitignore file
-*/.gitignore
+/.gitignore
